@@ -17,3 +17,7 @@ java is a programing language.it is oops concept.java consists of objects.......
 2. two
 # create a link
 [google](https://www.google.com)
+# create table
+s.no|s.name|s.mark
+----|------|
+1|abc|99
