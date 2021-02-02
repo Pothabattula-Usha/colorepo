@@ -23,4 +23,4 @@ s.no|s.name|s.mark
 1|abc|99
 # insert image
 
-![alt myimage](download (1).jpg)
+![alt myimage](download.jpg)
