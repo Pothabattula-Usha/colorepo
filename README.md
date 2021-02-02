@@ -19,5 +19,7 @@ java is a programing language.it is oops concept.java consists of objects.......
 [google](https://www.google.com)
 # create table
 s.no|s.name|s.mark
-----|------|
+----|------|-----
 1|abc|99
+# insert image
+[myimage](download(1))
